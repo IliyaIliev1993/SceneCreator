@@ -1,0 +1,9 @@
+{
+    "title" : "Scene Creator",
+    "screen_resolution" : {
+        "width" : 1440,
+        "height" : 900,
+        "depth" : 100
+    },
+    "xml_save_path" : "../src/ExportFromSceneCreator.xml"
+}

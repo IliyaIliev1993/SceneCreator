@@ -1,0 +1,5 @@
+/home/ichko/workspace/SceneCreator/project/build/CMakeFiles/rebuild_cache.dir
+/home/ichko/workspace/SceneCreator/project/build/CMakeFiles/edit_cache.dir
+/home/ichko/workspace/SceneCreator/project/build/CMakeFiles/SceneCreator.dir
+/home/ichko/workspace/SceneCreator/project/build/CMakeFiles/ImGui.dir
+/home/ichko/workspace/SceneCreator/project/build/CMakeFiles/Glad.dir
